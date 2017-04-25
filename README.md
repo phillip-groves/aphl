@@ -1,7 +1,5 @@
 ## Advanced Pokémon Hacking Library
 
-#### About
-
 Advanced Pokémon Hacking Library (APHL) is a small library that grants Java developers low-level access to data and assets within Pokémon games for Game Boy Advance. Key features include:
 
   - Read or write primitive types (and text) at addresses within the ROM file.
