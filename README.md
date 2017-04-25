@@ -9,8 +9,8 @@ Advanced Pokémon Hacking Library (APHL) is a small library that grants Java dev
 
 This repository is maintained solely by Phillip Groves; however, contributions are welcome. 
 
+Thank you for checking out my work, and enjoy.
+
 #### Disclaimer
 
 The code written in this repository was developed purely for educational purposes. I am not responsible for how it may be used. All copyrights are reserved by their respective owners. I am not associated with any entity. 
-
-Thank you and enjoy.
